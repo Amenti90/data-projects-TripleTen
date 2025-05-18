@@ -1,7 +1,7 @@
 # data-projects-TripleTen
 Table of Contents:
 1. Zomato Data Analysis: https://public.tableau.com/views/Zomato_17471932105010/Story1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-- This analysis was executed to identify the core characteristics of high-performing restaurants operating on the Zomato platform
+- This analysis was executed to identify the core characteristics of high-performing restaurants operating on the Zomato platform.
 Purpose: Following the provided strategy, the primary goal was to use sales and ratings data to understand what drives restaurant success
 Methods/Techniques: Tableau visualizations.
 Results: Provided analysis of NYC neighborhoods, property types, and occupancy levels.
